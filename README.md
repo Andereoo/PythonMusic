@@ -1,8 +1,8 @@
 # PythonMusic
-Small cross-platform music note player for beginners to learn how to manipulate system uses
+Small cross-platform music note player for beginners to learn how to manipulate system sounds.
 
-It has been tested tested in python 3.x on Windows
-Uses include playing songs through set notes, playing.wav files, or creating custom 'beeps' with a known hertz frequency
+It has been tested tested in python 3.x on Windows.
+Uses include playing songs through set notes, playing.wav files, or creating custom 'beeps' with a known hertz frequency.
 
 &nbsp;
 ### Main Commands

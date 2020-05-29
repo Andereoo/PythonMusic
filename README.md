@@ -8,7 +8,7 @@ Uses include playing songs through set notes, playing.wav files, or creating cus
 ### Main Commands
 
 	•Note(note, length, number_of_repeats)
-  •Makes a beep sound based off of the note name. length' is in milliseconds; 'number_of_repeats'  is a positive integer1 or above
+  •Makes a beep sound based off of the note name. length' is in milliseconds; 'number_of_repeats'  is a positive integer 1 or above
 
 	• custom_sound(hertz_frequency, length, number_of_repeats)
   • Makes custom beep based off of hertz frequency and duration; frequency must be from 37 through 32,767
